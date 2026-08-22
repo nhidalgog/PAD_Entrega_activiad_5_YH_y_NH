@@ -1,0 +1,20 @@
+fecha;cliente;producto;categoria;cantidad;precio_unitario;costo_unitario;sede
+3/08/2026;101;Bowl Andino;Almuerzo;2;24.000,00;14.000,00;centro
+3/08/2026;102;Pasta Urbana;Almuerzo;1;28.000,00;17.000,00;NORTE
+4/08/2026;103;Bowl Andino;Almuerzo;1;24.000,00;14.000,00;Centro 
+4/08/2026;103;Bowl Andino;Almuerzo;1;24.000,00;14.000,00;Centro 
+4/08/2026;104;Hamburguesa Central;Cena;2;30.000,00;19.000,00;Norte
+5/08/2026;105;Ensalada de la Casa;Almuerzo;1;22.000,00;; Centro
+5/08/2026;101;Limonada Natural;Bebida;2;8.000,00;2.500,00;CENTRO
+6/08/2026;106;Pasta Urbana;Almuerzo;2;28.000,00;17.000,00;norte
+6/08/2026;106;Pasta Urbana;Almuerzo;2;28.000,00;17.000,00;norte
+7/08/2026;107;Bowl Andino;Almuerzo;3;24.000,00;14.000,00;Centro
+10/08/2026;101;Pasta Urbana;Almuerzo;1;28.000,00;17.000,00;centro 
+10/08/2026;108;Hamburguesa Central;Cena;1;30.000,00;19.000,00;NORTE
+11/08/2026;103;Bowl Andino;Almuerzo;2;24.000,00;14.000,00;Centro
+11/08/2026;109;Ensalada de la Casa;Almuerzo;2;22.000,00;12.000,00;centro
+11/08/2026;109;Ensalada de la Casa;Almuerzo;2;22.000,00;12.000,00;centro
+12/08/2026;104;Hamburguesa Central;Cena;1;30.000,00;19.000,00;Norte 
+12/08/2026;110;Limonada Natural;Bebida;3;8.000,00;;CENTRO 
+13/08/2026;106;Pasta Urbana;Almuerzo;1;28.000,00;17.000,00;NORTE
+14/08/2026;111;Bowl Andino;Almuerzo;2;24.000,00;14.000,00;Centro
